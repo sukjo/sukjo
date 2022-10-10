@@ -1,4 +1,7 @@
-### Hi there 👋
+Hey I'm Jo (they/them). 
+I'm a student at NYU ITP and a graduate specialist for Digital Scholarship Services under NYU Libraries. 
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **joannesuk/joannesuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
