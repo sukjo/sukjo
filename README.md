@@ -1,4 +1,4 @@
-Hey I'm Jo (they/them). 
+Hi, I'm Jo. 
 I'm a student at NYU ITP and a graduate specialist for Digital Scholarship Services under NYU Libraries. 
 
 <!-- ### Hi there 👋 -->
